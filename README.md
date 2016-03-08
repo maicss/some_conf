@@ -3,6 +3,7 @@
 
 ## .nanorc
  > 我的nano配置文件
+ 
  配置内容：
  - JavaScript
  - CSS
